@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "41907910235",
+    "firebase_url": "https://capstone-tunzatech-default-rtdb.firebaseio.com",
+    "project_id": "capstone-tunzatech",
+    "storage_bucket": "capstone-tunzatech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41907910235:android:afd4398bd165cebb03b17e",
+        "android_client_info": {
+          "package_name": "com.example.practice_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41907910235-bthftg56hu4bt3nnmare2v5d5i8fl79o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUX8clvSX58Pn4kTHjKcQojg1rKyCO38o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41907910235-bthftg56hu4bt3nnmare2v5d5i8fl79o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "41907910235-0ibs9mkbk6mobfupq45lmvjopfmstsg8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.practiceProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
